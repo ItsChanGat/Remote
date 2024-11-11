@@ -5,11 +5,6 @@ import subprocess
 import webbrowser
 
 
-# URL الصفحة التي تريد فتحها
-url = "https://www.example.com"
-
-# فتح المتصفح الافتراضي على الصفحة المحددة
-webbrowser.open(url)
 
 # دالة لفحص إذا كانت البيئة افتراضية
 def is_virtual_machine():
